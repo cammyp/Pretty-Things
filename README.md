@@ -6,7 +6,6 @@
 ![img](https://i.imgur.com/uh1ddnxl.png)
 
 ![img](https://i.imgur.com/IVRT6Jtl.png)
-
 ![img](https://i.imgur.com/0QqpZLEl.png)
 
 # Videos
