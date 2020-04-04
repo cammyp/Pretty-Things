@@ -1,11 +1,11 @@
 # Pretty Things
+
 🛍 Design Assignment Midterm - Shopping App
 
 ![img](https://media.giphy.com/media/lokTGCqveqP3xW722x/giphy.gif)
 ![img](https://media.giphy.com/media/kdWilmDA67YnW7FEdR/giphy.gif)
 ![img](https://media.giphy.com/media/hosY4W7o4wcGZB37wN/giphy.gif)
 
-#
 
 ![img](https://i.imgur.com/rsf6b45l.jpg)
 ![img](https://i.imgur.com/VvClrJsl.jpg)
