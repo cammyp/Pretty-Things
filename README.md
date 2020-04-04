@@ -3,6 +3,10 @@
 
 # Screenshots
 
+![img](https://i.imgur.com/NU5ERe0l.jpg)
+![img](https://i.imgur.com/rsf6b45l.jpg)
+![img](https://i.imgur.com/VvClrJsl.jpg)
+
 ![img](https://i.imgur.com/uh1ddnxl.png)
 
 ![img](https://i.imgur.com/IVRT6Jtl.png)
